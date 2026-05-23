@@ -2,7 +2,19 @@ html, body {
 	background-color: white;
 	margin: 0px;
 	font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
-	font-size: 14px;
+	font-size: 16px;
+}
+
+a {
+	color: orange;
+}
+
+a:hover {
+	color: indigo;
+}
+
+a:visited {
+	color: orange;
 }
 
 .pixelated {
